@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New devops project containerization tool</h1>
+    <h1>New devops project</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
